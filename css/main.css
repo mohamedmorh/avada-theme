@@ -1,0 +1,23 @@
+:root{
+  --black: #222;
+  --green: #a0ce4e;
+  --gray: #aaa;
+  --light-gray: #eee;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'tahoma';
+  letter-spacing: 1px;
+}
+li{
+  list-style: none;
+  margin: 0px;
+}
+body{
+
+}
+main{
+  width: 100%;
+}
