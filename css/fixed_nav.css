@@ -4,12 +4,10 @@ nav#fixed-nav{
   background-color: #fff;
   box-shadow: 0px 1px 3px rgba(0,0,0,.2)
 }
-div.center{
+nav#fixed-nav div.center{
   width: 1100px;
   height: 100%;
   margin: 0 auto;
-}
-nav#fixed-nav div.center{
   position: relative;
   display: flex;
   justify-content: space-between;
